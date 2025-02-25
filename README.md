@@ -1,4 +1,4 @@
-# Simple Calculator
+# 🌟Simple Calculator
 
 This is a simple web-based calculator with a dark/light theme toggle and a mathematical background video.
 
