@@ -2,6 +2,8 @@
 
 This is a simple web-based calculator with a dark/light theme toggle and a mathematical background video.
 
+checkout the live version here: https://rajendraprasadkambhampati.github.io/Calculator/
+
 ## Features
 - Perform basic arithmetic operations (+, -, *, /)
 - Clear and backspace functionality
